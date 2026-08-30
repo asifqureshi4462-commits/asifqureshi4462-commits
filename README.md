@@ -2,22 +2,39 @@
 
 💻 Developer • AI/ML Enthusiast • Android & Web Developer
 
-I build modern web applications, Android apps, and AI-powered tools with a focus on practical solutions, clean UI, and continuous learning.
+I build modern web applications, Android apps, and AI-powered tools, with a focus on practical solutions, clean interfaces, and continuous learning.
 
-«🚀 Building ideas into real-world projects.»
-
----
+<p align="center">
+  <a href="https://github.com/asifqureshi4462-commits">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@Ai_Content_Studio_786">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://t.me/aicontentstudio786">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/xtylish_ai_content_studio">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Asif_Qureshi_92">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://in.linkedin.com/in/asif-qureshi-614151350">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>---
 
 🧑‍💻 About Me
 
-- 🎓 Class 12 PCM student & self-taught developer
+- 🚀 Developer building real-world projects
 - 📱 Focused on Android & Web Development
 - 🤖 Exploring AI / ML and AI-powered applications
-- 🌐 Building PHP, JavaScript & responsive web projects
+- 🌐 Building responsive applications with PHP, JavaScript & modern web technologies
 - ☕ Android development with Java + XML
-- 🛠️ Comfortable working from Android/mobile development environments
-- 🎥 Creating technology-focused content on YouTube
-- 🌱 Currently improving my DSA, JavaScript, Android & AI skills
+- 🔥 Working with Firebase and cloud technologies
+- 🎥 Creating technology-focused content
+- 🌱 Continuously improving Java, JavaScript, Android, AI & DSA
 
 ---
 
@@ -26,67 +43,78 @@ I build modern web applications, Android apps, and AI-powered tools with a focus
 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,php,js,html,css,python,mysql" />
-</p>Frameworks & Technologies
+  <img src="https://skillicons.dev/icons?i=java,php,js,html,css,python,mysql" />
+</p>Android & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=android,firebase,tailwind,bootstrap,opencv" />
-</p>Tools & Platforms
+  <img src="https://skillicons.dev/icons?i=android,firebase" />
+</p>Web Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,linux,termux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap" />
+</p>Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,linux" />
 </p>---
 
 🚀 Featured Projects
 
 📱 ScanPro AI
 
-AI-powered document scanner & PDF utility for Android.
+«AI-powered document scanner and PDF utility for Android.»
 
-Features include:
+Key Features
 
 - 📷 Document scanning
 - 🔍 OCR with ML Kit
 - 📄 PDF creation & management
-- 🤖 AI PDF assistant
-- 📝 AI-powered summaries
+- 🤖 AI PDF Assistant
+- 📝 AI-powered PDF summaries
 - 🌍 Document translation
 - 🔐 Authentication & cloud storage
 
-Stack: "Java" "XML" "Android SDK" "Firebase" "ML Kit" "OpenCV" "Room"
+Tech: "Java" "XML" "Android SDK" "Firebase" "ML Kit" "OpenCV" "Room"
 
 ---
 
 🛒 Quick Kart
 
-Modern mobile-first PHP/MySQL e-commerce platform.
+«Modern mobile-first PHP/MySQL e-commerce platform.»
 
-Features include:
+Key Features
 
 - 🛍️ Product browsing
 - 🔎 Search & categories
 - 👤 User authentication
 - 📦 Product management
 - 🛠️ Admin dashboard
-- 📱 Responsive mobile-first UI
+- 📱 Responsive mobile-first interface
 
-Stack: "PHP" "MySQL" "HTML" "CSS" "JavaScript" "Tailwind CSS"
+Tech: "PHP" "MySQL" "HTML" "CSS" "JavaScript" "Tailwind CSS"
 
 ---
 
 🌐 Asif Qureshi Dev
 
-A personal developer portfolio and project platform showcasing my work, tutorials, experiments, and development projects.
+«Personal developer portfolio and project platform.»
 
-Stack: "PHP" "HTML" "CSS" "JavaScript"
+A central place for my projects, tutorials, experiments, development work, and technical content.
+
+🌐 Website:
+https://asifqureshidev.infinityfreeapp.com
+
+Tech: "PHP" "HTML" "CSS" "JavaScript"
 
 ---
 
-📊 GitHub Stats
+📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asifqureshi4462-commits&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifqureshi4462-commits&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=asifqureshi4462-commits&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" /><img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifqureshi4462-commits&layout=compact&theme=transparent&hide_border=true" />
+
 </p><p align="center">
   <img src="https://streak-stats.demolab.com?user=asifqureshi4462-commits&theme=transparent&hide_border=true" />
 </p>---
@@ -99,49 +127,55 @@ Stack: "PHP" "HTML" "CSS" "JavaScript"
 
 🎯 Current Focus
 
-Android Development    ███████████████░░░  80%
-Web Development        ████████████████░░  85%
-Java                   ███████████████░░░  80%
-AI / ML                ████████████░░░░░░  65%
-JavaScript             █████████████░░░░░  70%
-DSA                    ██████████░░░░░░░░  55%
+Area| Focus
+📱 Android| Android applications & architecture
+🌐 Web| Full-stack PHP applications
+☕ Java| Advanced Java & Android development
+🤖 AI/ML| AI-powered applications
+🟨 JavaScript| Modern interactive web applications
+🧠 DSA| Problem solving & algorithms
 
 ---
 
-🧠 What I'm Learning
+🧠 Currently Learning
 
-▸ Advanced Java
-▸ Android Architecture
-▸ REST APIs & Backend Development
-▸ AI-powered applications
-▸ Machine Learning fundamentals
-▸ Data Structures & Algorithms
-▸ Modern UI/UX
-▸ Cloud & Firebase
-
----
-
-🌟 Development Philosophy
-
-«Learn → Build → Break → Debug → Improve → Repeat»
-
-I believe the best way to learn development is by building real projects, solving problems, and continuously improving existing work.
+Advanced Java
+Android Architecture
+REST APIs & Backend Development
+AI-powered Applications
+Machine Learning Fundamentals
+Data Structures & Algorithms
+Modern UI/UX
+Firebase & Cloud Technologies
 
 ---
 
-🤝 Connect With Me
+💡 Development Philosophy
 
-<p align="left">
-  <a href="https://github.com/asifqureshi4462-commits">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>---
+<p align="center">Learn → Build → Break → Debug → Improve → Repeat
+
+</p>I believe the strongest way to learn development is by building real projects, solving problems, understanding mistakes, and continuously improving.
+
+---
+
+🌐 Find Me Online
+
+Platform| Link
+🐙 GitHub| "@asifqureshi4462-commits" (https://github.com/asifqureshi4462-commits)
+▶️ YouTube| "AI Content Studio" (https://www.youtube.com/@Ai_Content_Studio_786)
+✈️ Telegram| "AI Content Studio" (https://t.me/aicontentstudio786)
+👥 Telegram Community| "Join Community" (https://t.me/+2AHe_YGn8y80MmE1)
+📸 Instagram| "@xtylish_ai_content_studio" (https://www.instagram.com/xtylish_ai_content_studio)
+𝕏 X| "@Asif_Qureshi_92" (https://x.com/Asif_Qureshi_92)
+💼 LinkedIn| "Asif Qureshi" (https://in.linkedin.com/in/asif-qureshi-614151350)
+🌐 Portfolio| "asifqureshidev.infinityfreeapp.com" (https://asifqureshidev.infinityfreeapp.com)
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asifqureshi4462-commits&style=flat-square&color=blue" alt="Profile Views" />
-</p><p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  <img src="https://komarev.com/ghpvc/?username=asifqureshi4462-commits&style=flat-square" />
+</p><p align="center">⭐ Thanks for visiting my profile!
+
+Let's build something useful. 🚀
+
 </p>
