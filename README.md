@@ -23,7 +23,7 @@ I build modern web applications, Android apps, and AI-powered tools, with a focu
   <a href="https://in.linkedin.com/in/asif-qureshi-614151350">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>---
+</p>
 
 🧑‍💻 About Me
 
@@ -36,7 +36,7 @@ I build modern web applications, Android apps, and AI-powered tools, with a focu
 - 🎥 Creating technology-focused content
 - 🌱 Continuously improving Java, JavaScript, Android, AI & DSA
 
----
+
 
 ⚡ Tech Stack
 
@@ -56,7 +56,7 @@ Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,linux" />
-</p>---
+</p>
 
 🚀 Featured Projects
 
@@ -76,7 +76,7 @@ Key Features
 
 Tech: "Java" "XML" "Android SDK" "Firebase" "ML Kit" "OpenCV" "Room"
 
----
+
 
 🛒 Quick Kart
 
@@ -93,7 +93,7 @@ Key Features
 
 Tech: "PHP" "MySQL" "HTML" "CSS" "JavaScript" "Tailwind CSS"
 
----
+
 
 🌐 Asif Qureshi Dev
 
@@ -106,7 +106,7 @@ https://asifqureshidev.infinityfreeapp.com
 
 Tech: "PHP" "HTML" "CSS" "JavaScript"
 
----
+
 
 📊 GitHub Statistics
 
@@ -117,13 +117,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifqureshi4
 
 </p><p align="center">
   <img src="https://streak-stats.demolab.com?user=asifqureshi4462-commits&theme=transparent&hide_border=true" />
-</p>---
+</p>
 
 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifqureshi4462-commits&theme=github-compact&hide_border=true&area=true" />
-</p>---
+</p>
 
 🎯 Current Focus
 
@@ -135,7 +135,7 @@ Area| Focus
 🟨 JavaScript| Modern interactive web applications
 🧠 DSA| Problem solving & algorithms
 
----
+
 
 🧠 Currently Learning
 
@@ -148,7 +148,7 @@ Data Structures & Algorithms
 Modern UI/UX
 Firebase & Cloud Technologies
 
----
+
 
 💡 Development Philosophy
 
@@ -156,7 +156,7 @@ Firebase & Cloud Technologies
 
 </p>I believe the strongest way to learn development is by building real projects, solving problems, understanding mistakes, and continuously improving.
 
----
+
 
 🌐 Find Me Online
 
@@ -170,7 +170,7 @@ Platform| Link
 💼 LinkedIn| "Asif Qureshi" (https://in.linkedin.com/in/asif-qureshi-614151350)
 🌐 Portfolio| "asifqureshidev.infinityfreeapp.com" (https://asifqureshidev.infinityfreeapp.com)
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asifqureshi4462-commits&style=flat-square" />
